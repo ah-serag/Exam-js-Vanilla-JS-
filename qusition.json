@@ -1,0 +1,402 @@
+[
+  {
+    "title": "How Can We Declare A Variable In JavaScript",
+    "answer_1": "Using var",
+    "answer_2": "Using let",
+    "answer_3": "Using const",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "What Is The Type Of '42' In JavaScript",
+    "answer_1": "Number",
+    "answer_2": "String",
+    "answer_3": "Boolean",
+    "answer_4": "Undefined",
+    "right_answer": "String"
+  },
+  {
+    "title": "Which Operator Is Used For Strict Equality",
+    "answer_1": "==",
+    "answer_2": "===",
+    "answer_3": "=",
+    "answer_4": "!=",
+    "right_answer": "==="
+  },
+  {
+    "title": "What Is The Output Of console.log(typeof null)",
+    "answer_1": "null",
+    "answer_2": "object",
+    "answer_3": "undefined",
+    "answer_4": "string",
+    "right_answer": "object"
+  },
+  {
+    "title": "Which Of The Following Is A Falsy Value",
+    "answer_1": "0",
+    "answer_2": "null",
+    "answer_3": "undefined",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "What Is The Result Of 3 + '2'",
+    "answer_1": "5",
+    "answer_2": "'32'",
+    "answer_3": "Error",
+    "answer_4": "undefined",
+    "right_answer": "'32'"
+  },
+  {
+    "title": "What Is The Output Of 2 ** 3",
+    "answer_1": "6",
+    "answer_2": "8",
+    "answer_3": "9",
+    "answer_4": "Error",
+    "right_answer": "8"
+  },
+  {
+    "title": "Which Keyword Is Used To Declare A Block-Scoped Variable",
+    "answer_1": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_4": "Both let And const",
+    "right_answer": "Both let And const"
+  },
+  {
+    "title": "Which Statement Is Used For Conditional Execution",
+    "answer_1": "if...else",
+    "answer_2": "switch",
+    "answer_3": "Both 1 And 2",
+    "answer_4": "while",
+    "right_answer": "Both 1 And 2"
+  },
+  {
+    "title": "Which Loop Will Run At Least Once Regardless Of Condition",
+    "answer_1": "for loop",
+    "answer_2": "while loop",
+    "answer_3": "do...while loop",
+    "answer_4": "for...of loop",
+    "right_answer": "do...while loop"
+  },
+  {
+    "title": "What Is The Output Of 5 == '5'",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "Error",
+    "answer_4": "undefined",
+    "right_answer": "true"
+  },
+  {
+    "title": "What Is The Output Of 5 === '5'",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "Error",
+    "answer_4": "undefined",
+    "right_answer": "false"
+  },
+  {
+    "title": "How Do We Comment A Single Line In JavaScript",
+    "answer_1": "// comment",
+    "answer_2": "/* comment */",
+    "answer_3": "# comment",
+    "answer_4": "<!-- comment -->",
+    "right_answer": "// comment"
+  },
+  {
+    "title": "Which Method Converts String To Integer",
+    "answer_1": "parseInt()",
+    "answer_2": "Number()",
+    "answer_3": "Both 1 And 2",
+    "answer_4": "String()",
+    "right_answer": "Both 1 And 2"
+  },
+  {
+    "title": "What Is The Output Of Boolean('hello')",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "null",
+    "answer_4": "undefined",
+    "right_answer": "true"
+  },
+  {
+    "title": "How Do We Create A Function In JavaScript",
+    "answer_1": "function myFunc() {}",
+    "answer_2": "const myFunc = function() {}",
+    "answer_3": "const myFunc = () => {}",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "What Is The Output Of ['a','b','c'].length",
+    "answer_1": "2",
+    "answer_2": "3",
+    "answer_3": "4",
+    "answer_4": "undefined",
+    "right_answer": "3"
+  },
+  {
+    "title": "Which Array Method Adds Elements To The End",
+    "answer_1": "push()",
+    "answer_2": "pop()",
+    "answer_3": "shift()",
+    "answer_4": "unshift()",
+    "right_answer": "push()"
+  },
+  {
+    "title": "Which Array Method Removes Last Element",
+    "answer_1": "push()",
+    "answer_2": "pop()",
+    "answer_3": "shift()",
+    "answer_4": "unshift()",
+    "right_answer": "pop()"
+  },
+  {
+    "title": "How Can We Merge Two Arrays",
+    "answer_1": "concat()",
+    "answer_2": "spread operator [...]",
+    "answer_3": "Both 1 And 2",
+    "answer_4": "merge()",
+    "right_answer": "Both 1 And 2"
+  },
+  {
+    "title": "What Is The Output Of '5' - 2",
+    "answer_1": "3",
+    "answer_2": "'52'",
+    "answer_3": "NaN",
+    "answer_4": "Error",
+    "right_answer": "3"
+  },
+  {
+    "title": "What Does The Array Method map() Return",
+    "answer_1": "A New Array",
+    "answer_2": "The Same Array Modified",
+    "answer_3": "A Number",
+    "answer_4": "Nothing",
+    "right_answer": "A New Array"
+  },
+  {
+    "title": "Which Method Converts Array To String",
+    "answer_1": "join()",
+    "answer_2": "toString()",
+    "answer_3": "Both 1 And 2",
+    "answer_4": "stringify()",
+    "right_answer": "Both 1 And 2"
+  },
+  {
+    "title": "Which Loop Is Used To Iterate Over Object Properties",
+    "answer_1": "for...in",
+    "answer_2": "for...of",
+    "answer_3": "forEach",
+    "answer_4": "while",
+    "right_answer": "for...in"
+  },
+  {
+    "title": "How Can We Access Object Property 'name' From let obj = {name:'Ali'}",
+    "answer_1": "obj.name",
+    "answer_2": "obj['name']",
+    "answer_3": "Both 1 And 2",
+    "answer_4": "name.obj",
+    "right_answer": "Both 1 And 2"
+  },
+  {
+    "title": "What Is The Output Of '5' + 3",
+    "answer_1": "8",
+    "answer_2": "'53'",
+    "answer_3": "Error",
+    "answer_4": "undefined",
+    "right_answer": "'53'"
+  },
+  {
+    "title": "What Will This Code Print: setTimeout(()=>console.log('Hi'),0); console.log('Hello');",
+    "answer_1": "Hi then Hello",
+    "answer_2": "Hello then Hi",
+    "answer_3": "Error",
+    "answer_4": "Undefined",
+    "right_answer": "Hello then Hi"
+  },
+  {
+    "title": "Which Statement Is Used To Stop A Loop",
+    "answer_1": "stop",
+    "answer_2": "break",
+    "answer_3": "exit",
+    "answer_4": "continue",
+    "right_answer": "break"
+  },
+  {
+    "title": "Which Keyword Declares A Constant Variable",
+    "answer_1": "let",
+    "answer_2": "const",
+    "answer_3": "var",
+    "answer_4": "static",
+    "right_answer": "const"
+  },
+  {
+    "title": "What Will console.log(!!'') Print",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "null",
+    "answer_4": "undefined",
+    "right_answer": "false"
+  },
+  {
+    "title": "What Is A JavaScript Closure",
+    "answer_1": "Function With Access To Its Outer Scope",
+    "answer_2": "A Special Type Of Object",
+    "answer_3": "A Loop That Never Ends",
+    "answer_4": "None Is Correct",
+    "right_answer": "Function With Access To Its Outer Scope"
+  },
+  {
+    "title": "What Is The Output Of (function(){ let a=1; return ()=>++a; })()()",
+    "answer_1": "1",
+    "answer_2": "2",
+    "answer_3": "undefined",
+    "answer_4": "Error",
+    "right_answer": "2"
+  },
+  {
+    "title": "Which Keyword Is Used To Inherit From Another Class In JavaScript",
+    "answer_1": "extends",
+    "answer_2": "inherits",
+    "answer_3": "super",
+    "answer_4": "prototype",
+    "right_answer": "extends"
+  },
+  {
+    "title": "Which Method Is Used To Handle Errors In Promises",
+    "answer_1": ".then()",
+    "answer_2": ".catch()",
+    "answer_3": ".finally()",
+    "answer_4": "try...catch",
+    "right_answer": ".catch()"
+  },
+  {
+    "title": "Which Keyword Is Used With async Functions",
+    "answer_1": "await",
+    "answer_2": "then",
+    "answer_3": "promise",
+    "answer_4": "callback",
+    "right_answer": "await"
+  },
+  {
+    "title": "What Is The Output Of typeof NaN",
+    "answer_1": "number",
+    "answer_2": "NaN",
+    "answer_3": "undefined",
+    "answer_4": "object",
+    "right_answer": "number"
+  },
+  {
+    "title": "Which API Is Used For Fetching Data In Modern JS",
+    "answer_1": "fetch",
+    "answer_2": "XMLHttpRequest",
+    "answer_3": "axios",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "What Will console.log([1,2,3] == [1,2,3]) Print",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "Error",
+    "answer_4": "undefined",
+    "right_answer": "false"
+  },
+  {
+    "title": "What Does JSON.stringify({a:1}) Return",
+    "answer_1": "'{\"a\":1}'",
+    "answer_2": "{a:1}",
+    "answer_3": "'{a:1}'",
+    "answer_4": "undefined",
+    "right_answer": "'{\"a\":1}'"
+  },
+  {
+    "title": "What Is Event Bubbling In JavaScript",
+    "answer_1": "Event Propagates From Target To Root",
+    "answer_2": "Event Propagates From Root To Target",
+    "answer_3": "Event Stops Immediately",
+    "answer_4": "None Is Correct",
+    "right_answer": "Event Propagates From Target To Root"
+  },
+  {
+    "title": "Which Method Stops Event Bubbling",
+    "answer_1": "stopPropagation()",
+    "answer_2": "preventDefault()",
+    "answer_3": "stopImmediatePropagation()",
+    "answer_4": "Both 1 And 3",
+    "right_answer": "Both 1 And 3"
+  },
+  {
+    "title": "What Is The Output Of [...'abc']",
+    "answer_1": "['abc']",
+    "answer_2": "['a','b','c']",
+    "answer_3": "['a','bc']",
+    "answer_4": "Error",
+    "right_answer": "['a','b','c']"
+  },
+  {
+    "title": "What Does The Array Method reduce() Do",
+    "answer_1": "Reduces Array Size",
+    "answer_2": "Executes A Reducer Function On Each Element To Get Single Value",
+    "answer_3": "Removes Last Element",
+    "answer_4": "None Is Correct",
+    "right_answer": "Executes A Reducer Function On Each Element To Get Single Value"
+  },
+  {
+    "title": "What Is The Output Of !!0",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "null",
+    "answer_4": "undefined",
+    "right_answer": "false"
+  },
+  {
+    "title": "What Does The Function isNaN(123) Return",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "null",
+    "answer_4": "undefined",
+    "right_answer": "false"
+  },
+  {
+    "title": "Which Object Is The Root Of All Objects In JavaScript",
+    "answer_1": "Object",
+    "answer_2": "Function",
+    "answer_3": "Window",
+    "answer_4": "Global",
+    "right_answer": "Object"
+  },
+  {
+    "title": "What Is The Output Of '2' * '3'",
+    "answer_1": "6",
+    "answer_2": "'23'",
+    "answer_3": "NaN",
+    "answer_4": "Error",
+    "right_answer": "6"
+  },
+  {
+    "title": "Which Statement Creates A New Promise",
+    "answer_1": "new Promise((resolve,reject)=>{})",
+    "answer_2": "Promise.create()",
+    "answer_3": "promise()",
+    "answer_4": "makePromise()",
+    "right_answer": "new Promise((resolve,reject)=>{})"
+  },
+  {
+    "title": "What Will console.log(0.1 + 0.2 === 0.3) Print",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "undefined",
+    "answer_4": "Error",
+    "right_answer": "false"
+  },
+  {
+    "title": "What Is The Output Of typeof undefined",
+    "answer_1": "undefined",
+    "answer_2": "null",
+    "answer_3": "object",
+    "answer_4": "string",
+    "right_answer": "undefined"
+  }
+]
